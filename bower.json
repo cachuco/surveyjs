@@ -11,12 +11,5 @@
     "survey"
   ],
   "homepage": "https://github.com/cachuco/surveyjs",
-  "moduleType": [],
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+  "moduleType": []
 }
