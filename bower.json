@@ -1,0 +1,22 @@
+{
+  "name": "surveyjs",
+  "description": "surveyjs library",
+  "main": [
+    "/dist/survey.ko.min.js",
+    "/dist/css/survey.js"
+   ] ,
+  "authors": "",
+  "license": "MIT",
+  "keywords": [
+    "survey"
+  ],
+  "homepage": "https://github.com/cachuco/surveyjs",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
